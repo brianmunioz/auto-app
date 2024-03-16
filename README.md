@@ -10,6 +10,8 @@ Hice una app estilo uber hecha con react native para una experiencia multiplataf
 - **Google Places API**: Proporciona sugerencias de navegación en tiempo real durante la reserva de viajes.
 - **Google Distance Matrix API**: Calcula el tiempo de viaje y la distancia en tiempo real.
 - **Google Directions API**: Ayuda a determinar la mejor ruta para el viaje.
+## Captura
+![Captura GIF](./demo/auto-app.gif)
 
 ## Instalación
 
@@ -33,7 +35,5 @@ npx expo start
 
 
    
-## Captura
-![Captura GIF](./demo/auto-app.gif)
 
-Reservá viajes 🚗 sin problemas, calculá el tiempo de viaje ⏰ y el costo💲 en tiempo real y disfrute de un viaje cómodo 😊. 
+
